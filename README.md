@@ -14,14 +14,14 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) / [OpenCode](htt
 
 ```bash
 # Clone into your skills directory
-git clone https://github.com/<your-username>/opencode-session-skill.git \
+git clone https://github.com/tangyoha/opencode-session-skill.git \
   ~/.claude/skills/opencode-session
 ```
 
 ### OpenCode
 
 ```bash
-git clone https://github.com/<your-username>/opencode-session-skill.git \
+git clone https://github.com/tangyoha/opencode-session-skill.git \
   ~/.config/opencode/skills/opencode-session
 ```
 
